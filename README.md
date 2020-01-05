@@ -1,1 +1,1 @@
-# SkinLesionDetectionApp
+# Skin Lesion Detection
